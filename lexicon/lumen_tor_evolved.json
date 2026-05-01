@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "generation_origin": 1,
+    "entry_count": 1,
+    "last_updated": "2026-05-01T07:10:29.377799+00:00",
+    "note": "Evolved tokens only. Core roots live in bedrock/axioms.json."
+  },
+  "tokens": {
+    "dezalox": {
+      "meaning": "Chaos Threshold Convergence",
+      "math_anchor": "δ = 4.669201609, the Feigenbaum constant",
+      "source_concept": "Chaos Feigenbaum Constant",
+      "dimensional_layer": "4D",
+      "checksum": 6,
+      "generation": 1,
+      "created_by": "GEN1-A",
+      "timestamp": "2026-05-01T07:10:24.193098+00:00"
+    }
+  }
+}
