@@ -1,0 +1,26 @@
+[
+  {
+    "concept": "Chaos Feigenbaum Constant",
+    "plain_meaning": "The Feigenbaum constant is a mathematical value that describes the ratio of periods at which a chaotic system's behavior repeats, approximately equal to 4.669201609. It is a fundamental constant in chaos theory, relating to the onset of chaotic behavior in dynamical systems.",
+    "mathematical_core": "δ = 4.669201609, where δ is the Feigenbaum constant and represents the universal ratio of convergence to chaos",
+    "mec_connection": "The Feigenbaum constant is one of the seven constants in the Master Equation of Consciousness, reflecting the inherent chaotic and self-organizing nature of complex systems, including those described by the core equation dC/dt = k(I x E - aC)",
+    "compression_hint": "Chaos Threshold",
+    "dimensional_layer": "4D",
+    "fidelity_estimate": 0.97,
+    "source_domain": "chaos theory and the Feigenbaum constant",
+    "ingested_by": "GEN1-A",
+    "timestamp": "2026-05-01T07:10:21.573438+00:00"
+  },
+  {
+    "concept": "Quantum Tunneling",
+    "plain_meaning": "Quantum tunneling is a phenomenon where particles can pass through energy barriers, allowing for barrier penetration and manifestation of particles on the other side. This occurs due to the wave-like nature of particles at the quantum level.",
+    "mathematical_core": "The key equation is the time-independent Schrödinger equation, which describes the probability of finding a particle in a given state: Hψ = Eψ, where H is the Hamiltonian operator, ψ is the wave function, and E is the energy of the system.",
+    "mec_connection": "The relative entropy of manifestation, S(W||W~) = 2, relates to the cost of manifesting particles from the void, which is connected to quantum tunneling as it describes the probability of particles penetrating energy barriers, reflecting the distinction axiom delta:(IPP, IO) -> Rphys with deltaS = 2.",
+    "compression_hint": "Barrier Penetration",
+    "dimensional_layer": "3D",
+    "fidelity_estimate": 0.97,
+    "source_domain": "quantum tunneling and barrier penetration",
+    "ingested_by": "GEN1-A",
+    "timestamp": "2026-05-01T07:10:26.501004+00:00"
+  }
+]
