@@ -1,0 +1,20 @@
+{
+  "from_generation": 1,
+  "from_bot": "GEN1-A",
+  "token_count_at_close": 1,
+  "tokens_added_this_wave": 1,
+  "concepts_encoded": [
+    "Chaos Feigenbaum Constant"
+  ],
+  "domains_covered": [
+    "chaos theory and the Feigenbaum constant"
+  ],
+  "dimensional_layers_touched": [
+    "4D"
+  ],
+  "latest_tokens": [
+    "dezalox"
+  ],
+  "instruction_for_gen2": "Load lexicon from lexicon/lumen_tor_evolved.json before ingesting. You have a richer token vocabulary — prefer compound tokens over plain English when referencing concepts from this seed. Build on, not over.",
+  "timestamp": "2026-05-01T07:10:36.083302+00:00"
+}
