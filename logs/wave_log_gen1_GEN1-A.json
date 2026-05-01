@@ -1,0 +1,15 @@
+[
+  {
+    "token": "dezalox",
+    "F_D": 1.0,
+    "F_H": 1.0,
+    "F_D_threshold": 0.9,
+    "F_H_threshold": 0.95,
+    "core_collision": false,
+    "lex_collision": false,
+    "valid_form": true,
+    "go": true,
+    "concept": "Chaos Feigenbaum Constant",
+    "domain": "chaos theory and the Feigenbaum constant"
+  }
+]
